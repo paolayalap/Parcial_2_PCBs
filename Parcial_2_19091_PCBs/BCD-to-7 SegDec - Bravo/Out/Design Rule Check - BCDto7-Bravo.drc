@@ -1,0 +1,241 @@
+Protel Design System Design Rule Check
+PCB File : D:\PCBs\Parcial_2\BCD-to-7 SegDec - Bravo\BCD-to-7 SegDec - Bravo\BCDto7-Bravo.PcbDoc
+Date     : 17/10/2022
+Time     : 16:35:11
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad DS1-1(3130mil,820mil) on Multi-Layer And Pad DS1-6(3330mil,420mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad DS1-1(3130mil,820mil) on Multi-Layer And Pad U6-20(3130mil,2265mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net a Between Pad R1-2(950mil,694.055mil) on Top Layer And Pad DS1-10(3330mil,820mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net f Between Pad R7-2(1860mil,689.528mil) on Top Layer And Pad DS1-2(3130mil,720mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net g Between Pad R4-2(2714.528mil,1695mil) on Top Layer And Pad DS1-3(3130mil,620mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net e Between Pad R2-2(1415mil,709.528mil) on Top Layer And Pad DS1-4(3130mil,520mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net d Between Pad R5-2(2340mil,679.055mil) on Top Layer And Pad DS1-5(3130mil,420mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net DP Between Pad U6-19(3030mil,2265mil) on Multi-Layer And Pad DS1-7(3330mil,520mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net c Between Pad DS1-8(3330mil,620mil) on Multi-Layer And Pad R6-2(3604.528mil,1295mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net b Between Pad DS1-9(3330mil,720mil) on Multi-Layer And Pad R3-2(3334.055mil,1295mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad U6-20(3130mil,2265mil) on Multi-Layer And Pad P1-1(3685mil,2560mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CP Between Pad U6-3(2930mil,2565mil) on Multi-Layer And Pad P1-2(3685mil,2660mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U6-1(3130mil,2565mil) on Multi-Layer And Pad P1-3(3685mil,2760mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q1-1(1055mil,410mil) on Multi-Layer And Pad Q2-1(1500mil,410mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U7-7(815mil,1875mil) on Multi-Layer And Pad Q1-1(1055mil,410mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net B1 Between Pad Q1-2(1005mil,410mil) on Multi-Layer And Pad U6-2(3030mil,2565mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net C1 Between Pad R1-1(950mil,635mil) on Top Layer And Pad Q1-3(955mil,410mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q2-1(1500mil,410mil) on Multi-Layer And Pad Q7-1(1960mil,410mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net B2 Between Pad Q2-2(1450mil,410mil) on Multi-Layer And Pad U6-5(2730mil,2565mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net C2 Between Pad Q2-3(1400mil,410mil) on Multi-Layer And Pad R2-1(1415mil,650.472mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q4-1(2950mil,1800mil) on Multi-Layer And Pad Q3-1(3275mil,1805mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q3-1(3275mil,1805mil) on Multi-Layer And Pad Q6-1(3625mil,1805mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U6-1(3130mil,2565mil) on Multi-Layer And Pad Q3-1(3275mil,1805mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net B3 Between Pad U6-6(2630mil,2565mil) on Multi-Layer And Pad Q3-2(3275mil,1755mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net C3 Between Pad R3-1(3275mil,1295mil) on Top Layer And Pad Q3-3(3275mil,1705mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net B4 Between Pad U6-9(2330mil,2565mil) on Multi-Layer And Pad Q4-2(2950mil,1750mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net C4 Between Pad R4-1(2655.472mil,1695mil) on Top Layer And Pad Q4-3(2950mil,1700mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q7-1(1960mil,410mil) on Multi-Layer And Pad Q5-1(2435mil,405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net B5 Between Pad U6-12(2330mil,2265mil) on Multi-Layer And Pad Q5-2(2385mil,405mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net C5 Between Pad Q5-3(2335mil,405mil) on Multi-Layer And Pad R5-1(2340mil,620mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net B6 Between Pad U6-15(2630mil,2265mil) on Multi-Layer And Pad Q6-2(3625mil,1755mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net C6 Between Pad R6-1(3545.472mil,1295mil) on Top Layer And Pad Q6-3(3625mil,1705mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net B7 Between Pad Q7-2(1910mil,410mil) on Multi-Layer And Pad U6-16(2730mil,2265mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net C7 Between Pad R7-1(1860mil,630.472mil) on Top Layer And Pad Q7-3(1860mil,410mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net N8 Between Pad U8-1(2045mil,1218.858mil) on Top Layer And Pad U10-1(2930mil,3218.347mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N6 Between Pad U4-8(675mil,3395.118mil) on Top Layer And Pad U10-2(2980mil,3218.347mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N11 Between Pad U2-10(1529.488mil,2355mil) on Top Layer And Pad U10-4(3080mil,3218.347mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N10 Between Pad U9-3(2150.512mil,3386.063mil) on Top Layer And Pad U10-5(3130mil,3218.347mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net fx Between Pad U6-18(2930mil,2265mil) on Multi-Layer And Pad U10-6(3180mil,3218.347mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QB Between Pad U1-1(415.512mil,2555mil) on Top Layer And Pad U2-3(1340.512mil,2455mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QB Between Pad U1-1(415.512mil,2555mil) on Top Layer And Pad U4-3(475mil,3206.142mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QC Between Pad U1-10(604.488mil,2355mil) on Top Layer And Pad U1-13(604.488mil,2505mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N3 Between Pad U1-11(604.488mil,2405mil) on Top Layer And Pad U3-9(630mil,1218.858mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N11 Between Pad U1-4(415.512mil,2405mil) on Top Layer And Pad U1-12(604.488mil,2455mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N11 Between Pad U1-12(604.488mil,2455mil) on Top Layer And Pad U2-10(1529.488mil,2355mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N11 Between Pad U4-4(525mil,3206.142mil) on Top Layer And Pad U1-12(604.488mil,2455mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QC Between Pad U1-13(604.488mil,2505mil) on Top Layer And Pad U2-13(1529.488mil,2505mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QC Between Pad U4-5(575mil,3206.142mil) on Top Layer And Pad U1-13(604.488mil,2505mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad U1-14(604.488mil,2555mil) on Top Layer And Pad U2-14(1529.488mil,2555mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QA Between Pad U1-2(415.512mil,2505mil) on Top Layer And Pad U2-11(1529.488mil,2405mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QA Between Pad U4-1(375mil,3206.142mil) on Top Layer And Pad U1-2(415.512mil,2505mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N1 Between Pad U1-3(415.512mil,2455mil) on Top Layer And Pad U2-1(1340.512mil,2555mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N12 Between Pad U1-5(415.512mil,2355mil) on Top Layer And Pad U1-9(604.488mil,2305mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N12 Between Pad U1-5(415.512mil,2355mil) on Top Layer And Pad U4-2(425mil,3206.142mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N2 Between Pad U1-6(415.512mil,2305mil) on Top Layer And Pad U2-2(1340.512mil,2505mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N2 Between Pad U3-1(380mil,951.142mil) on Top Layer And Pad U1-6(415.512mil,2305mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-7(415.512mil,2255mil) on Top Layer And Pad U7-7(815mil,1875mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net N4 Between Pad U3-4(530mil,951.142mil) on Top Layer And Pad U1-8(604.488mil,2255mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N12 Between Pad U1-9(604.488mil,2305mil) on Top Layer And Pad U2-4(1340.512mil,2405mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QA Between Pad U5-12(1504.488mil,3386.063mil) on Top Layer And Pad U2-11(1529.488mil,2405mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ax Between Pad U2-12(1529.488mil,2455mil) on Top Layer And Pad U6-4(2830mil,2565mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net QC Between Pad U2-9(1529.488mil,2305mil) on Top Layer And Pad U2-13(1529.488mil,2505mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QC Between Pad U5-8(1504.488mil,3186.063mil) on Top Layer And Pad U2-13(1529.488mil,2505mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad U7-14(1415mil,1575mil) on Multi-Layer And Pad U2-14(1529.488mil,2555mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad U2-14(1529.488mil,2555mil) on Top Layer And Pad U9-14(2339.488mil,3486.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QB Between Pad U2-3(1340.512mil,2455mil) on Top Layer And Pad U5-9(1504.488mil,3236.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QB Between Pad U7-2(1315mil,1875mil) on Multi-Layer And Pad U2-3(1340.512mil,2455mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N12 Between Pad U7-4(1115mil,1875mil) on Multi-Layer And Pad U2-4(1340.512mil,2405mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N13 Between Pad U4-6(625mil,3206.142mil) on Top Layer And Pad U2-5(1340.512mil,2355mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N13 Between Pad U2-5(1340.512mil,2355mil) on Top Layer And Pad U7-1(1415mil,1875mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net bx Between Pad U2-6(1340.512mil,2305mil) on Top Layer And Pad U6-8(2430mil,2565mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-7(1340.512mil,2255mil) on Top Layer And Pad U6-11(2230mil,2265mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U7-7(815mil,1875mil) on Multi-Layer And Pad U2-7(1340.512mil,2255mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N9 Between Pad U2-8(1529.488mil,2255mil) on Top Layer And Pad U8-6(1795mil,1218.858mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N5 Between Pad U3-10(580mil,1218.858mil) on Top Layer And Pad U7-3(1215mil,1875mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net N5 Between Pad U3-10(580mil,1218.858mil) on Top Layer And Pad U8-4(1895mil,1218.858mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N7 Between Pad U3-12(480mil,1218.858mil) on Top Layer And Pad U7-6(915mil,1875mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net N6 Between Pad U3-13(430mil,1218.858mil) on Top Layer And Pad U3-5(580mil,951.142mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N6 Between Pad U3-13(430mil,1218.858mil) on Top Layer And Pad U4-8(675mil,3395.118mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N6 Between Pad U3-13(430mil,1218.858mil) on Top Layer And Pad U8-3(1945mil,1218.858mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N3 Between Pad U3-2(430mil,951.142mil) on Top Layer And Pad U3-9(630mil,1218.858mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net ex Between Pad U3-6(630mil,951.142mil) on Top Layer And Pad U6-7(2530mil,2565mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net gx Between Pad U3-8(680mil,1218.858mil) on Top Layer And Pad U6-13(2430mil,2265mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad U4-14(375mil,3395.118mil) on Top Layer And Pad U5-5(1315.512mil,3286.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-7(675mil,3206.142mil) on Top Layer And Pad U5-7(1315.512mil,3186.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QD Between Pad U4-9(625mil,3395.118mil) on Top Layer And Pad U5-11(1504.488mil,3336.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QA Between Pad U5-1(1315.512mil,3486.063mil) on Top Layer And Pad U5-12(1504.488mil,3386.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-6(1315.512mil,3236.063mil) on Top Layer And Pad U5-10(1504.488mil,3286.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-10(1504.488mil,3286.063mil) on Top Layer And Pad U9-7(2150.512mil,3186.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QA Between Pad U5-12(1504.488mil,3386.063mil) on Top Layer And Pad U9-2(2150.512mil,3436.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net CP Between Pad U5-14(1504.488mil,3486.063mil) on Top Layer And Pad U6-3(2930mil,2565mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-3(1315.512mil,3386.063mil) on Top Layer And Pad U5-2(1315.512mil,3436.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-6(1315.512mil,3236.063mil) on Top Layer And Pad U5-3(1315.512mil,3386.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad U5-5(1315.512mil,3286.063mil) on Top Layer And Pad U6-20(3130mil,2265mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-7(1315.512mil,3186.063mil) on Top Layer And Pad U5-6(1315.512mil,3236.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QC Between Pad U5-8(1504.488mil,3186.063mil) on Top Layer And Pad U9-1(2150.512mil,3486.063mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U6-10(2230mil,2565mil) on Multi-Layer And Pad U6-1(3130mil,2565mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U6-11(2230mil,2265mil) on Multi-Layer And Pad U6-10(2230mil,2565mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U9-7(2150.512mil,3186.063mil) on Top Layer And Pad U6-10(2230mil,2565mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net dx Between Pad U7-11(1115mil,1575mil) on Multi-Layer And Pad U6-14(2530mil,2265mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net cx Between Pad U8-8(1745mil,951.142mil) on Top Layer And Pad U6-17(2830mil,2265mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net N13 Between Pad U7-10(1015mil,1575mil) on Multi-Layer And Pad U7-1(1415mil,1875mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net N8 Between Pad U7-8(815mil,1575mil) on Multi-Layer And Pad U7-12(1215mil,1575mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net N8 Between Pad U7-12(1215mil,1575mil) on Multi-Layer And Pad U8-1(2045mil,1218.858mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N7 Between Pad U7-13(1315mil,1575mil) on Multi-Layer And Pad U8-2(1995mil,1218.858mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net QB Between Pad U7-5(1015mil,1875mil) on Multi-Layer And Pad U7-2(1315mil,1875mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net N9 Between Pad U8-11(1895mil,951.142mil) on Top Layer And Pad U8-12(1945mil,951.142mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N9 Between Pad U8-5(1845mil,1218.858mil) on Top Layer And Pad U8-11(1895mil,951.142mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net N9 Between Pad U8-6(1795mil,1218.858mil) on Top Layer And Pad U8-5(1845mil,1218.858mil) on Top Layer 
+Rule Violations :109
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=25mil) (Preferred=15mil) (InNet('QB'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=25mil) (Preferred=15mil) (InNet('QC'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=25mil) (Preferred=15mil) (InNet('QA'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=47mil) (Max=67mil) (Preferred=47mil) (InNet('VCC'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=25mil) (Preferred=15mil) (InNet('CP'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=25mil) (Preferred=15mil) (InNet('QD'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=47mil) (Max=67mil) (Preferred=47mil) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=10mil) (All)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q1-1(1055mil,410mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q1-2(1005mil,410mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q1-3(955mil,410mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q2-1(1500mil,410mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q2-2(1450mil,410mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q2-3(1400mil,410mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q3-1(3275mil,1805mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q3-2(3275mil,1755mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q3-3(3275mil,1705mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q4-1(2950mil,1800mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q4-2(2950mil,1750mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q4-3(2950mil,1700mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q5-1(2435mil,405mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q5-2(2385mil,405mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q5-3(2335mil,405mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q6-1(3625mil,1805mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q6-2(3625mil,1755mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q6-3(3625mil,1705mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q7-1(1960mil,410mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q7-2(1910mil,410mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (1.968mil < 10mil) Pad Q7-3(1860mil,410mil) on Multi-Layer (Annular Ring=1.968mil) On (Top Layer)
+Rule Violations :21
+
+Processing Rule : Hole Size Constraint (Min=16mil) (Max=125mil) (All)
+   Violation between Hole Size Constraint: (250mil > 125mil) Via (305mil,3625mil) from Top Layer to Bottom Layer Actual Hole Size = 250mil
+   Violation between Hole Size Constraint: (250mil > 125mil) Via (310mil,320mil) from Top Layer to Bottom Layer Actual Hole Size = 250mil
+   Violation between Hole Size Constraint: (250mil > 125mil) Via (3630mil,305mil) from Top Layer to Bottom Layer Actual Hole Size = 250mil
+   Violation between Hole Size Constraint: (250mil > 125mil) Via (3630mil,3645mil) from Top Layer to Bottom Layer Actual Hole Size = 250mil
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=16mil) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q1-1(1055mil,410mil) on Multi-Layer And Pad Q1-2(1005mil,410mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q1-2(1005mil,410mil) on Multi-Layer And Pad Q1-3(955mil,410mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q2-1(1500mil,410mil) on Multi-Layer And Pad Q2-2(1450mil,410mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q2-2(1450mil,410mil) on Multi-Layer And Pad Q2-3(1400mil,410mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q3-1(3275mil,1805mil) on Multi-Layer And Pad Q3-2(3275mil,1755mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q3-2(3275mil,1755mil) on Multi-Layer And Pad Q3-3(3275mil,1705mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q4-1(2950mil,1800mil) on Multi-Layer And Pad Q4-2(2950mil,1750mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q4-2(2950mil,1750mil) on Multi-Layer And Pad Q4-3(2950mil,1700mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q5-1(2435mil,405mil) on Multi-Layer And Pad Q5-2(2385mil,405mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q5-2(2385mil,405mil) on Multi-Layer And Pad Q5-3(2335mil,405mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q6-1(3625mil,1805mil) on Multi-Layer And Pad Q6-2(3625mil,1755mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q6-2(3625mil,1755mil) on Multi-Layer And Pad Q6-3(3625mil,1705mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q7-1(1960mil,410mil) on Multi-Layer And Pad Q7-2(1910mil,410mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (14.567mil < 16mil) Between Pad Q7-2(1910mil,410mil) on Multi-Layer And Pad Q7-3(1860mil,410mil) on Multi-Layer 
+Rule Violations :14
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=3800mil) (InNet('QC'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=3800mil) (InNet('QB'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=3000mil) (All)
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=3800mil) (InNet('QD'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=7500mil) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=8000mil) (InNet('VCC'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=3800mil) (InNet('QA'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=3800mil) (InNet('CP'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 148
+Waived Violations : 0
+Time Elapsed        : 00:00:00
